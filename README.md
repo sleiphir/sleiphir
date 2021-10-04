@@ -13,7 +13,7 @@
 
 [Web Developer since 2020]
 
-# I speak English and French and I'm actively learning Japanese
+[*] I speak English and French and I'm actively learning Japanese
 ```
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleiphir&theme=dark&show_icons=true&hide_border=true&bg_color=0d1117)
