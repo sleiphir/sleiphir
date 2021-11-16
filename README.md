@@ -1,8 +1,7 @@
 #### _Web Developer_
 
-- 💬 I speak English, French and I'm actively learning Japanese
-- 🚀 Building discord bots on my spare time
-- ⏳ I don't have a lot of spare time
+- 💬 I speak English & French
+- ⚛️ Unwillingly increasing entropy on my spare time
 - 💖 TypeScript
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sleiphir&theme=dark&show_icons=true&bg_color=0d1117&hide_title=true&count_private=true&include_all_commits=true)
